@@ -1,5 +1,5 @@
-# Doichain dApp
-A reference implementation of the "Doichain Atomic Double-Opt-In Protocol"
+# DoiWorks API 
+A reference implementation of the "Doichain Double-Opt-In Protocol" (formerly Doichain-dApp) 
 
 Note: This is still experimental software. This module is not (yet) intended for use in production environments, or for use where real money is at stake, at this point.
 Please contact developers over Telegram @doichain for questions.
